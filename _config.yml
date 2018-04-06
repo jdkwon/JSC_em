@@ -1,1 +1,4 @@
+# Site Settings
+locale              : "en-US"
+
 theme: jekyll-theme-cayman

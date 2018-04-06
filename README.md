@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to JSChurch English Ministry! 
 
-You can use the [editor on GitHub](https://github.com/jdkwon/JSC_em/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please come join us on Sundays at 11 AM where we have Pastor Joe speaking each week about God's word.
 
 ### Markdown
 

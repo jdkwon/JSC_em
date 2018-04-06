@@ -1,4 +1,8 @@
 # Site Settings
 locale              : "en-US"
-
 theme: jekyll-theme-cayman
+
+# Basic
+title               : "JSChurch EM"
+name                : "JSC EM"
+description         : "Website of JSChurch English Ministry"
